@@ -8,3 +8,4 @@ This project is personal documentation of my daily learning in html
 a.) just html
 b.) optional nodejs for package manager
 c.) optional bootstrap or jquery
+```
